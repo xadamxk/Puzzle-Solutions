@@ -1,0 +1,12 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Prestige\Prestige\bin\Debug\Prestige.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Prestige\Prestige\bin\Debug\Prestige.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Prestige\Prestige\bin\Debug\Prestige.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Prestige\Prestige\obj\Debug\Prestige.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Prestige\Prestige\obj\Debug\Prestige.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Prestige\Prestige\obj\Debug\Prestige.pdb
+C:\Users\Adam\Documents\GitHub\Puzzle-Solutions\Prestige 3.0\Prestige\Prestige\bin\Debug\Prestige.exe.config
+C:\Users\Adam\Documents\GitHub\Puzzle-Solutions\Prestige 3.0\Prestige\Prestige\obj\Debug\Prestige.exe
+C:\Users\Adam\Documents\GitHub\Puzzle-Solutions\Prestige 3.0\Prestige\Prestige\obj\Debug\Prestige.pdb
+C:\Users\Adam\Documents\GitHub\Puzzle-Solutions\Prestige 3.0\Prestige\Prestige\bin\Debug\Prestige.exe
+C:\Users\Adam\Documents\GitHub\Puzzle-Solutions\Prestige 3.0\Prestige\Prestige\bin\Debug\Prestige.pdb
+C:\Users\Adam\Documents\GitHub\Puzzle-Solutions\Prestige 3.0\Prestige\Prestige\obj\Debug\Prestige.csprojResolveAssemblyReference.cache

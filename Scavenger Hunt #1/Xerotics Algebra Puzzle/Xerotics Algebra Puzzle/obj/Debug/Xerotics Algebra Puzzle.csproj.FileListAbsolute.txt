@@ -1,0 +1,6 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Xerotics Algebra Puzzle\Xerotics Algebra Puzzle\bin\Debug\Xerotics Algebra Puzzle.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Xerotics Algebra Puzzle\Xerotics Algebra Puzzle\bin\Debug\Xerotics Algebra Puzzle.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Xerotics Algebra Puzzle\Xerotics Algebra Puzzle\bin\Debug\Xerotics Algebra Puzzle.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Xerotics Algebra Puzzle\Xerotics Algebra Puzzle\obj\Debug\Xerotics Algebra Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Xerotics Algebra Puzzle\Xerotics Algebra Puzzle\obj\Debug\Xerotics Algebra Puzzle.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Xerotics Algebra Puzzle\Xerotics Algebra Puzzle\obj\Debug\Xerotics Algebra Puzzle.pdb
