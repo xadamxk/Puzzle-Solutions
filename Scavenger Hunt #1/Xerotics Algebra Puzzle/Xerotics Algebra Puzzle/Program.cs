@@ -72,10 +72,10 @@ namespace Xerotics_Algebra_Puzzle
                                                     {
                                                         resultCount++;
                                                         // Fancy output
-                                                        Console.WriteLine(resultCount+ "." + tempVal + " | " + EquationStr);
-                                                        // Ban Hammer: 1
+                                                        //Console.WriteLine(resultCount+ "." + tempVal + " | " + EquationStr);
+                                                        // Ban Hammer: 33279
                                                         // Judge Dredd: 4066
-                                                        var tempVal2 = tempVal * 1 * 4066;
+                                                        var tempVal2 = tempVal * 33279 * 4066;
                                                         // Add val to list
                                                         bool alreadyExist = resultList.Contains(tempVal2);
                                                         if (!alreadyExist)
@@ -98,7 +98,7 @@ namespace Xerotics_Algebra_Puzzle
                 // Numbered list
                 //Console.WriteLine(i+": "+ resultList[i]);
                 // CSV List
-                //Console.Write(resultList[i] + ",");
+                Console.Write(resultList[i] + ",");
             }
             Console.ReadKey();
         }
