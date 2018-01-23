@@ -4,16 +4,15 @@
 // @description     Tool to test list of key options.
 // @require         http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
 // @include         *://codebeautify.org/encrypt-decrypt
-// @version         1.0
+// @version         1.1
 // ==/UserScript==
 
-var keyList = "";
+var keyList = ""; // Possible keys go here
 var keyArray = keyList.split(',');
-var cipherText = "";
-//console.log(keyArray);
-var delayInMilliseconds = 2000; //2 seconds
+var cipherText = ""; // Encrypted message goes here
+var delayInMilliseconds = 2000; // 2 seconds for the lulz
 
-console.log("Possible Keys: "+keyArray.length);
+console.log("Possible Keys: "+keyArray.length+1);
 
 // Select algorithm dropdown
 $("#alg").val("twofish");
@@ -29,7 +28,7 @@ var i = 0;
 runLoop();
 
 function runLoop(){
-    if(i < keyArray.length + 1){
+    if(i < keyArray.length){
         setTimeout( runLoop, delayInMilliseconds );
         tryKey();
     }
@@ -42,7 +41,8 @@ function tryKey(){
     // Click button
     $( "input[value='Decrypt']").click();
     // Log results
-    console.log("("+ i + ") " + $("#result_ed").val().substring(0,20));
+    console.log("Key: "+keyArray[i-1]); // Offset to account for timing delay
+    console.log("Message: " + $("#result_ed").val()); //.substring(0,20)
     i++;
 }
 

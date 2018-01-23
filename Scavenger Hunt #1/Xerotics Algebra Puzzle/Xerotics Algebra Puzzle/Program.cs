@@ -1,10 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-// fn+ctrl+F5 to run exe
+/*
+ * Instructions:
+ * ctrl+F5 to run exe  so you can C&P results (list)
+ * Input list into userscript
+ * Crack results 
+ * 
+ * There is something commented out, that if you remove the comments, 
+ *    will limit the list from ~300 results to 7
+ *    
+  _    _ ______    _____                                             _    _             _   
+ | |  | |  ____|  / ____|                                           | |  | |           | |  
+ | |__| | |__    | (___   ___ __ ___   _____ _ __   __ _  ___ _ __  | |__| |_   _ _ __ | |_ 
+ |  __  |  __|    \___ \ / __/ _` \ \ / / _ \ '_ \ / _` |/ _ \ '__| |  __  | | | | '_ \| __|
+ | |  | | |       ____) | (_| (_| |\ V /  __/ | | | (_| |  __/ |    | |  | | |_| | | | | |_ 
+ |_|  |_|_|      |_____/ \___\__,_| \_/ \___|_| |_|\__, |\___|_|    |_|  |_|\__,_|_| |_|\__|
+                                                    __/ |                                   
+                                                   |___/                                    
+                                   _____ _               _____ 
+                                  / ____| |             | ____|
+                                 | (___ | |_ ___ _ __   | |__  
+                                  \___ \| __/ _ \ '_ \  |___ \ 
+                                  ____) | ||  __/ |_) |  ___) |
+                                 |_____/ \__\___| .__/  |____/ 
+                                                | |            
+                                                |_|            
+    
+               
+ *    
+ *    Happy Hacking!
+    */
 
 namespace Xerotics_Algebra_Puzzle
 {
@@ -46,43 +72,47 @@ namespace Xerotics_Algebra_Puzzle
                                             // n-t
                                             for (int i = 1; i < 5; i++)
                                             {
-                                                // Concat Equation String
-                                                string EquationStr =
-                                                    usernameVal[0] + getOperator(a) +
-                                                    usernameVal[1] + getOperator(b) +
-                                                    usernameVal[2] + getOperator(c) +
-                                                    usernameVal[3] + getOperator(d) +
-                                                    usernameVal[4] + getOperator(e) +
-                                                    usernameVal[5] + getOperator(f) +
-                                                    usernameVal[6] + getOperator(g) +
-                                                    usernameVal[7] + getOperator(h) +
-                                                    usernameVal[8] + getOperator(i) +
-                                                    usernameVal[9];
-                                                // Check for number of operators (limit options greatly!)
-                                                int plusCount = EquationStr.Split('+').Length - 1;
-                                                int minusCount = EquationStr.Split('-').Length - 1;
-                                                int multCount = EquationStr.Split('*').Length - 1;
-                                                int divCount = EquationStr.Split('/').Length - 1;
-                                                if (plusCount == 2 && minusCount == 2 && multCount == 4 && divCount == 1)
+                                                /*
+                                                if (a == 3 && b == 2 && c == 1 && e == 4 && i == 3)
                                                 {
-                                                    // Evaluate Equation String
-                                                    var tempVal = Evaluate(EquationStr);
-                                                    // If Whole Number
-                                                    if ((tempVal % 1) == 0 && tempVal >= 0)
+                                                */
+                                                    // Concat Equation String
+                                                    string EquationStr =
+                                                        usernameVal[0] + getOperator(a) +
+                                                        usernameVal[1] + getOperator(b) +
+                                                        usernameVal[2] + getOperator(c) +
+                                                        usernameVal[3] + getOperator(d) +
+                                                        usernameVal[4] + getOperator(e) +
+                                                        usernameVal[5] + getOperator(f) +
+                                                        usernameVal[6] + getOperator(g) +
+                                                        usernameVal[7] + getOperator(h) +
+                                                        usernameVal[8] + getOperator(i) +
+                                                        usernameVal[9];
+                                                    // Check for number of operators (limit options greatly!)
+                                                    int plusCount = EquationStr.Split('+').Length - 1;
+                                                    int minusCount = EquationStr.Split('-').Length - 1;
+                                                    int multCount = EquationStr.Split('*').Length - 1;
+                                                    int divCount = EquationStr.Split('/').Length - 1;
+                                                    if (plusCount == 2 && minusCount == 2 && multCount == 4 && divCount == 1)
                                                     {
-                                                        resultCount++;
-                                                        // Fancy output
-                                                        //Console.WriteLine(resultCount+ "." + tempVal + " | " + EquationStr);
-                                                        // Ban Hammer: 33279
-                                                        // Judge Dredd: 4066
-                                                        var tempVal2 = tempVal * 33279 * 4066;
-                                                        // Add val to list
-                                                        bool alreadyExist = resultList.Contains(tempVal2);
-                                                        if (!alreadyExist)
+                                                        // Evaluate Equation String
+                                                        var tempVal = Evaluate(EquationStr);
+                                                        // If Whole Number
+                                                        if ((tempVal % 1) == 0 && tempVal >= 0)
                                                         {
-                                                            resultList.Add(tempVal2);
+                                                            resultCount++;
+                                                            // Fancy output
+                                                            // Ban Hammer: 33279
+                                                            // Judge Dredd: 4066
+                                                            var tempVal2 = tempVal * 33279 * 4066;
+                                                            // Add val to list
+                                                            bool alreadyExist = resultList.Contains(tempVal2);
+                                                            if (!alreadyExist)
+                                                            {
+                                                                resultList.Add(tempVal2);
+                                                            }
                                                         }
-                                                    }
+                                                    //}
                                                 }
                                             }
                                         }
