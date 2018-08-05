@@ -25,7 +25,7 @@
     </li>
   <hr>
   <li>
-  <b>2: Learning About Decryption</b>
+  <b>Learning About Decryption</b>
    <br>
   Navigate to the decryption website (https://codebeautify.org/encrypt-decrypt), enter the text and key below.
   <br>
@@ -37,9 +37,27 @@
 Key: HackForumsScavengerHunt
 </li>
   <hr>
-  <li><b>3: </b></li>
+  <li>
+  <b>Rogue Staff Member</b>
+    
+      QxpCYtKLj8TUwcxjn/R1VG6jzCN2PG3MFOztozlr/m0u3OTdOjOwM33YeXpz8OvBX0PjKBgj58ubAjAu9lW1442KXBtbHpqtR2ynPcrWph0W1M6ffZjggjQUXdMJpiB8PLZpOnitMbgcYX6G3ZuD/ua/NPWSfyy9qVxaQpgdICCpI8UmqwSfLCii2Qi6XSNuOgZ2+3L+BZim4IMc6PsiFHfVFT3cu0RqmY0vr1+8f38EzE62i+7GHfblln16xHXnrw3LDX3uLm7wJyJ4Q68bVWbOzecM5d8zpG2UZ9JaW0Uo/yZzo3wtBWmCYE+KpXdB94Af2X36gCJCVQ8EhWVA/KCXQqZZeCJxFwb7mZ5qkWbgJCZLCtv+IjviriVWSO04Ie6FXoFoYoWGNXAuAY52hsTijKwcQgmvuce029imgyDG+ulDodIS/VylmUwswM1OWQ6d+JjZ7Avu+TgxSw/UKp/kwur/jlH7NNMaAUsXT2nWfph3LXUGmpTB3pIqMwTQulCvKo/FhIZhnmHEqBJnhyeYMGVbq8N/+dmOeX/DoFLTE1Vm6Ox9rmhZFPzRVGS8w1PKTvgp1WgTAxZfwGuagMTHi5RFOkmzpYWouBaj9bA=
+
+Hint: An infamous former Staff member that went rogue.
+<br>
+Key: hacker22
+</li>
   <hr>
-  <li><b>4: </b></li>
+  <li>
+  <b>Section Values</b>
+        
+      ufz9DZnI4tHDqBodDTLWGOLrUpah3P2sq28LjC5hWvANYdU0aMzOcs8a5ftx9O1sp6qT3ukiiinbrV12WZuyEi+/FW6u316dR40cqlskYY//IKVrle3RJalKM8CZCKuLbWTvZpR09tb/KzMDGNHXok/CPAn+tuff2imUVFecYF+XzK9BVJFO/ro0GsM31E59URTytlCZY6HoVjphDrYOcFKpJVruedHq9fsh99oS9z/P30Cr5hT+WoCqvoa+pIDWrmHPlgnaWwd36UDJy47c6Vt4zuLiIVGF2CI+VBo91NwlnGdnpHH0mrD3GeSoqQal
+
+Hint: intval(Minecraft) . intval(Python) . intval(Hosting) . intval(Keyloggers) . intval(Gamertags)
+<br>
+By taking the section id of each of the sections (ex Minecraft->https://hackforums.net/forumdisplay.php?fid=179 = 179) we get an integer.
+<br>
+Key: 179129143113195
+</li>
   <hr>
   <li><b>5: </b></li>
   <hr>
