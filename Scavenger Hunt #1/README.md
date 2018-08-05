@@ -145,7 +145,17 @@ These are coordinates for a location: Shonkin Rd
 Key: Shonkin Rd
 </li>
   <hr>
-  <li><b>9: </b></li>
+  <li>
+  <b>Video Game Store</b>
+            
+      Xg/7gn/MpjWxq17AKKFpF0mYlYB1wF7kbTPPN3piBDetCY0Gc/ssNNaZNo6jPykV
+
+Hint: The key is the name of a New York City video game store.
+<br>
+Background: Omniscient used to own a video game store in New York called 'Multimedia 1.0' (https://archive.nytimes.com/www.nytimes.com/learning/students/pop/010323snapfriday.html)
+<br>
+Key: Multimedia 1.0
+</li>
   <hr>
   <li><b>10: </b></li>
   <hr>
