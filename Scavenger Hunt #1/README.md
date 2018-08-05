@@ -10,14 +10,24 @@
 <h2>Hunt Stages & Solutions</h2>
 <ol>
   <li><b>1: </b></li>
+  <hr>
   <li><b>2: </b></li>
+  <hr>
   <li><b>3: </b></li>
+  <hr>
   <li><b>4: </b></li>
+  <hr>
   <li><b>5: </b></li>
+  <hr>
   <li><b>6: </b></li>
+  <hr>
   <li><b>7: </b></li>
+  <hr>
   <li><b>8: </b></li>
+  <hr>
   <li><b>9: </b></li>
+  <hr>
   <li><b>10: </b></li>
+  <hr>
   <li><b>11: </b></li>
 </ol>
