@@ -54,12 +54,24 @@ Key: hacker22
 
 Hint: intval(Minecraft) . intval(Python) . intval(Hosting) . intval(Keyloggers) . intval(Gamertags)
 <br>
-By taking the section id of each of the sections (ex Minecraft->https://hackforums.net/forumdisplay.php?fid=179 = 179) we get an integer.
+By taking the section id of each of the sections (ex Minecraft->https://hackforums.net/forumdisplay.php?fid=179 = 179) and multiplying the results, we get an integer.
 <br>
 Key: 179129143113195
 </li>
   <hr>
-  <li><b>5: </b></li>
+  <li>
+  <b>Omni Color Before Pink</b>
+       
+      XVH0Fr1vqIYXseLdXaaHqMYU207khyN8nDAmrKm5UNk97Fu2zqD3QgGHgz0FyoMUKMnTOIJlRla/F1WcOVyFOpRgqLI2fcNfdz2jGHD1rGY=
+
+Hint: Before Omniscient was purple he had been pink. Before he was pink he had bin _______.
+
+By referencing old HF News editions or using the WayBack Machine (https://archive.org/web/), we can find the old Admin theme color: 4DD0FC
+<br>
+Converting this HEX value into Binary, yields the following results: 010011011101000011111100
+<br>
+Key: 010011011101000011111100
+</li>
   <hr>
   <li><b>6: </b></li>
   <hr>
