@@ -223,11 +223,13 @@ Key: TICKET TO RIDE
 
 Hint: 6,8 labrador OR 14,9 labrador = hexcolor.co name
 <br>
+<br>
 At first, I had no idea what labrador referred to, so I made a script that brute forces every hex color code name I could find (17k results - using this script https://github.com/xadamxk/Puzzle-Solutions/blob/master/Scavenger%20Hunt%20%231/Brute%20Hex%20Colors.user.js)
 <br>
 After the script finished, I realized none of the options were correct, so I reached out to Xerotic updating him on my flow for the step, he said:
 <br>
 'So you looked at the Dog Lover award page and nothing stuck out to your eye?'
+<br>
 <br>
 After looking at the Dog Lover award icon, I realized it's file name was labrador (https://hackforums.net/uploads/awards/labrador.png).
 <br>
@@ -241,12 +243,89 @@ Using a logic calculator, I OR'd these HEX values (https://www.rapidtables.com/c
 <br>
 HEX Value: FDBE63 (https://hexcolor.co/hex/FDBE63)
 <br>
+<br>
 Key: Laura's Peach Taffy
 </li>
   <hr>
-  <li><b>11: </b></li>
+  <li>
+  <b>Xerotic's Profile</b>
+                    
+      Y04rB5sL9hHsv5TAwiyNDbUou6pbg6k2SPWpVQ2pn79kbj/gItsu76JOEX1kI/XiVV6u7j7kpPBih2e3kFX14Q==
+
+Hint: The next key is hidden within Xerotic's profile.
+<br>
+<br>
+Background: After looking at Xerotic's profile, the only data I knew that could stay consistent for nearly a year would be his awards, his signature, and his avatar.
+<br>
+After checking his awards, nothing stuck out to me.
+<br>
+After examining his signature, there was no hidden data.
+<br>
+After looking at his profile picture, I realized it was uploaded the day the Scavenger Hunt started (https://hackforums.net/uploads/avatars/avatar_175033.png?dateline=1515464664).
+<br>
+After looking for hidden messages or files, I tried opening the image in a text editor, which returned a blob of data, followed by a string, this string was the key.
+<br>
+Key: jak$A&D*!p7cZa%6
+<br>
+<br>
+Go ahead and navigate over to 51662870 (https://hackforums.net/showthread.php?tid=5337428&pid=51662870#pid51662870)
+</li>
   <hr>
-  <li><b>11: </b></li>
+  <li>
+  <b>Old Theme Name</b>
+                      
+      vkqIL+01D5k0EgdxoL91Smv3/jnLPvnvv9G7CuqcWwsh24NGPVVPg08x+EbLJnuNo/jWEkMKX+3aN0zwBHLyvl4DwydqyEyK3uPYADyWeeVOwJ07YBNNWr+gZ1HO/gUy7qNRWJFoORtDRHQnugRPSReaomIQy/kNVVWSlFi2OCNymsgT38GGxQkQWxSz9buAkqSkEeVNQkbsmAeIE7VdgLn/+nmgdXdiGPXuKBu5RLvzZ0eXRsENKvzC/WkPA4oYIOm208YljsirjO/malGiMKFIMiTX/HiI7QZrPibBlH+XH4fWsUvg2uPjvK7QyG9GF3lnEkWeGhlgxi/TYbIyMiwoozZl9mg6Q15UZyLiIk6+Hly7OGReZ/4nSEVRXy54294xWRy2kx70XVelD5jkD2+0oAQktt95PVYrkGbnSv2f2ctcMCnaCfwYj6RuwwK0Dx4wR9EajYdeEIp4v8eZuQ+PWMX7HyVm6/Dk6g38DF5Crj9v5fCn3TVbw0GxKtq7kOj819w8uDEQ8r31JnQcZLZIw93dO1Pj7e4K0IyTs2nom2SnIfsDd95jk/m+Lq7qNiV4r4IWysxOrsV+CQ8yB7QvRMg7g2E3/phPqkJEMlZBA0yw/0rI9cObuK64acOdxmWoeVoeeAYnYUFsNnruZ+q6X6oc84Ud97Pj2vgxMUBFWtm0omE73XzXusLBhw5mgwofVufebTMeUkKzt++Q4g==
+
+Hint: What was HF's oldschool theme called? The key will be all lower case.
+<br>
+<br>
+Used the Wayback Machine: https://www.web.archive.org/web/20111015072417cs_/http://cdn.hackforums.net/cache/themes/theme3/global.css
+<br>
+<br>
+Key: blackreign
+</li>
   <hr>
-  <li><b>11: </b></li>
+  <li>
+  <b>Integer Sequence</b>
+                        
+      KYWQI/jCIk9vXp4yyx1cji/RqUQFc/V9aUOQS6DRpXvN5hWdeSfQ0CVysLnbfbNbl/GvDO8QoHAeOZgkYK8R5Bf6nulpI5z+eG6i3a3TKencQLA/qo8Tlf7gLWmYbkeN5/f9nu7QS40UN4GMWO7imGDMv6nm0JLw3shM1vasMenwN3yzKRNoYqnMDHRAxU9UJ2MIUtdmwvYEcQ+B+02ZlupYYgvGHorC1y0C0Ov6Ettrp7upTAePZDTxBbp6IgyKfP6Y+Fhp+AhQ229wiKNQN7LN3XHEQpH8ETTuiF5rndSrSxYPk+TKpZ4SoOj0kaCd
+
+Hint: Consider the following sequence of numbers: 0 1 2 4 16 65536.
+<br>
+Find the next number in the sequence, then take the first 8 digits of that number and add 35,464,627 to get a pid.
+<br>
+<br>
+Pattern: As the sequence progresses, the value increases exponentially. I had seen the pattern before (https://oeis.org/A014221).
+<br>
+2^2^2^2^2 = 20035299 + 35,464,627 = 55499926 (https://hackforums.net/showthread.php?tid=5684070&pid=55499926#pid55499926)
+<br>
+<br>
+Damn you Steve and this wall of text. I knew I'd have to examine the MyCode for hidden elements, sure enough... A tilda (~) was hyperlinked: https://hackforums.net/showthread.php?tid=5736631&pid=56061584#pid56061584
+<br>
+Key: Ackermann
+</li>
+  <hr>
+  <li>
+  <b>Post That Started It All</b>
+                          
+      HpQlNqU3zEWYx5CAi3c5f/uELOpXliPHmye0bz9svbzWnx2rb8AJzzlenlfvW4vRjIN2qTvEGFOl9Ji0e11qeA==
+</li>
+Hint: When was the post that started it all?
+<br>
+<br>
+Background: I figured the post may have either referred to the Scavenger Hunt, or Hack Forums.
+<br>
+No format of the Scavenger Hunt posting date worked, so I searched for a thread mentioning the start of HF.
+<br>
+I found several threads, but none of the dates worked, so I visited our good friend, the Wayback Machine, to find the first ever HF thread (https://web.archive.org/web/20130625045049/hackforums.net/showthread.php?tid=1).
+<br>
+OP Date archieved: 05-01-2007, 11:09 PM
+<br>
+I tried using various formats of this date but realized none of them worked. After taking a closer look at the Wayback Machine, I realized that maybe the cached timestamp was skewed.
+<br>
+The timestamp that the snapshot was taken was at 4:50 AM on 06/25 (20130625045049), but Hack Forums said the current time was 08:50 PM on 06/24, so the snapshot was ahead 8 hours.
+<br>
+
+  <hr>
+  <li><b></b></li>
 </ol>
