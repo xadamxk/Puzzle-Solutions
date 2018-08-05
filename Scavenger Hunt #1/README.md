@@ -157,7 +157,96 @@ Background: Omniscient used to own a video game store in New York called 'Multim
 Key: Multimedia 1.0
 </li>
   <hr>
-  <li><b>10: </b></li>
+  <li>
+  <b>Cooked Turket</b>
+              
+      c8q1nJFBITeqlt6uOTeXhQN+Er+YEfV8lF9tPUkQ+fjqu9G8z6H3vGI/8R3jaekkck1GX1h87uzHw0fpANZffcFzjm6a2wobwsWKxcQhb5V70HeQxOiQ1dXir6r+6iweRL8aYNW9KiLjnKI8WRWc7a6mtrLetX61mEorQy3VwbDX6eJjJ3CRkFapx7886RUcCtlGqDSwjq57fLYnbxlneNE2fe/tLZG44C1n1BJC8PciSYyofRWciK67obG3GINb1cKJ6voJ+URYVuuQW7DABDn6WqUPTEpjJjd8gpOUJ751OBCoxeeHmq09vCn6W/oxxEEOOjPPW/jRCIbsqBCvfcr8fltxK9swtzpudfGKVlPl1FHTIqwaGRoqdzC9fXaup8TGuL7/OVs8NyAQIvdRPWcWdZQhs+5enAVf6uZDuYHsn43a2S2T/OPLp0NGoUCYUInUlwNTySfaJ+Fon7tPYEtjalO/so5zZO/iW8vQaai9LHffqLnmFWn6Eu/b7yNYbOV9t6H6lIj78Lf/NoA/tpLb50amvZ12CL9qgluJl3Hn9VCQ+l81PlyRSGb3iZyBeRCna1TMcvNkeKMerjHGJD1a4OgBGCpn+hHW8vllEmC2aj89WLZ0JP6jB+++eUwMKuShT/go5f2yITU/vFexHiwa707TtMuypdQNtMr6drdoyBF+XIDdkBOLEIlEvtaL3GWsyQkwtUKTl8Nke7qf6Q==
+
+Hint: What did Omni use to cook his turkey?
+<br>
+Omni's YouTube has a video of him cooking a turkey (https://www.youtube.com/watch?v=5qsOS48p7yc&t=161s)
+<br>
+Key: Traeger
+</li>
+  <hr>
+  <li>
+  <b>2012 Birthday Present</b>
+                
+      uYY6YPyhwqnJ6v3ceg5tEJFZoT5h0OtHLIoz8ghgu4zJYmB4tJOF/X6BoVYjGyJLuFThPAzqLZjXyGWoUTgVNLD+avQPYHUxlWghqEirEuVbFfa+SpaReRNSlQUnVJmSAi3X6hTWXZQWuRSqBavnkvNiRPEjjx8oQHkY+3Y2/GyD+tisLVSAl4EeRuBmq0BiRIzj4Ohjb6QeUCr7PkALBYz+QYo5I8A9Jb+ZJ47NPonLIwxF6O6kft4pkHRcH6O85ml8bIH7pYzuaDWrIovZNE3Ih0cNk3oFRS8i2pD1RCv8UGXRguenAznUSJ14fBqSqe8gFAA7Nn1ho5JO07eKg0sf21AMAvZSV9hOmSSTrukdNHrhb1zFXdfKiHtiYreEp4HdLYXAyp3+ffW8FbyuKM+8wrF0dufnljiZvFOcO/0JIAtxSNYZ2xefyRpedjGH
+
+Hint: What is an item Omni got for his birthday in 2012?
+<br>
+Youtube video of Omni's birthday presents in 2012 (https://www.youtube.com/watch?v=N98r_91mkww&t=286s)
+<br>
+List of items received:
+<br>
+XBOX360 'UFC 3' Undisputed game
+<br>
+PSP 'Final Fantasy IV' Complete Edition
+<br>
+PSP 'Silent Hill' Shattered Memories
+<br>
+Rolling Stones Some Girls Album
+<br>
+'Aftershave'
+<br>
+8150 'Graphics Card'
+<br>
+Blow Off Electronics Cleaner
+<br>
+Old 'Speakers'
+<br>
+Old T80 'DVD Player'
+<br>
+Zombie Dice 'Board Game'
+<br>
+Ticket to Ride 'Board Game'
+<br>
+Lemon and Lime 'Shaving Creme'
+<br>
+The Art of Shaving 'Book'
+<br>
+'Shaving Kit' - brush, Razor, stand w/ bowl
+<br>
+'Baseball Bat' 334C
+<br>
+'Computer Case' Antex 900 Adv gaming case
+<br>
+<br>
+Key: TICKET TO RIDE
+</li>
+  <hr>
+  <li>
+  <b>Labrador Color</b>
+                  
+      pdt8iEw9pKZZNI+pgsQf037V8gQEZR1bf1AApxYUozBMUTUqoKyexreVqn3aFhTTQ9NWyGj0EZdHW8xBNUk+hWGotXlOdagmj3zrHP7nOHEIV6nnyQWXjcFTURgPGXtiJfUK/lzGDQdAXuE9S+Agp4646pKf59MqsMoxwxqHDtldc0STXrAcYe+YlZAOhocvrSPwKaVHfIv1YiOrGNwkIXz7qU3ysweLcdYUr5uzIEo=
+
+Hint: 6,8 labrador OR 14,9 labrador = hexcolor.co name
+<br>
+At first, I had no idea what labrador referred to, so I made a script that brute forces every hex color code name I could find (17k results - using this script https://github.com/xadamxk/Puzzle-Solutions/blob/master/Scavenger%20Hunt%20%231/Brute%20Hex%20Colors.user.js)
+<br>
+After the script finished, I realized none of the options were correct, so I reached out to Xerotic updating him on my flow for the step, he said:
+<br>
+'So you looked at the Dog Lover award page and nothing stuck out to your eye?'
+<br>
+After looking at the Dog Lover award icon, I realized it's file name was labrador (https://hackforums.net/uploads/awards/labrador.png).
+<br>
+I then got the HEX values for the coordinates using Paint:
+<br>
+6,8: rgb(181,154,99) -> b59a63
+<br>
+14,9: rgb(76,54,0) -> 4c3600
+<br>
+Using a logic calculator, I OR'd these HEX values (https://www.rapidtables.com/calc/math/binary-calculator.html) and ended up with a final value of FDBE63
+<br>
+HEX Value: FDBE63 (https://hexcolor.co/hex/FDBE63)
+<br>
+Key: Laura's Peach Taffy
+</li>
+  <hr>
+  <li><b>11: </b></li>
+  <hr>
+  <li><b>11: </b></li>
   <hr>
   <li><b>11: </b></li>
 </ol>
