@@ -73,9 +73,45 @@ Converting this HEX value into Binary, yields the following results: 01001101110
 Key: 010011011101000011111100
 </li>
   <hr>
-  <li><b>6: </b></li>
+  <li>
+  <b>Algebra Solver</b>
+  <br>
+  Post: https://hackforums.net/showthread.php?tid=5330413&pid=51611202#pid51611202
+         
+      5naVQSAYv0BDZppHU0K4KA+QeN7/jV1HCYnplsNGqP+0uUcuSiDlvkMTPAYqA+VokYDdSs3y/guejRGyBUGPrP+2cB0sDoCmGug4tCj0T+viu/Kfa7Ba9lSnRXitKa+qqXbAiF3ZKnUB4VXCYPPfC7ltd8u9vNj5XrGY8AiqDLCzFebn78e7+O/pwQL0bMCfRKnRGus5uJ1EAaOxN/jx30eweAX9tBevMlc99mXiXFqZLxRLIuMNoFQHhpUlkmdaq6LDp07PBNfM+4jdEdrS3/WV+6BT/u8uB4bW7DoovHiurXOae62NPbaKiAia8PNLFqOXM77LfCNfrSlEoAKxASUXTGO7KuVzCx7PWEx/0jI+rjC185F6YYaCvP55kaw9p3piP9BAwWCSYK2b3Qy9AX7fa4CxNR5an7I+75YVCUDCJmf1nA4B+nY8kCAGRQ0FtU/x0+tgZVE86UqHbQ+Na063rawFWYb1uK44rJWRPJjhQkn6u/r9EEBLqxAKbYk2fFNn+N8ea7GIJNskULUXKQ0QpX0OX0LfuNjc7CrCtqcb0cHoY6JL8gtR/EwPs9hRCP8EH3PK2tJRmZABFmKKwUOAKxyQGzbbpahSd+wSWdgF0Tn2+5B1oSXftPfHipHXgqyiZIVDAM6Vt5XaI5P+uXzowZjXwBgEHpjKyOWalyh8WAzQsLnhViH9DYIGhG+HzT5qm9zFFD0INB9SW0p+f3ZZOalD5o6O5AXjuH2xYympj6TqJsg2ve0Wt0mPhtpVqjOSWnh32W3jZbWar7EHnpB9evaCzAuX1zS396oeyNTkQo+M81RTj0Lh7D+y28+hXMgXV6hw5ZiOSOXEN3hoBvd8QylzkRO/sucovy3UhbWmJzA84+o3oCnLvraAfXSrHTdoF1por1itgS/+KdsqUVppYRifILK6j6kXMd8RHyx3hvlHZhi2UC3qNqjyNQfD3vhqGGhwH7+m+lDljKks/ch0Uu+BKqUU1bOK3HEDlTgUoKz0LIOIOCMoFuD0ma2IU628YmUlQtdREs/Cb/7Io0WOjUzohWO0O3UFxd96kAclQJwKgPrdhn8kN4bqn/shwAn5Xt2KYIlPyzIjmiORIWiAr1CPsWu2erBuM35OHzsxjtxsFKnXJPTvs6zjepxAcYu40Vn1WryrEUqCfxTqlYLuP5QJXL7tCOzQXIvd5yK4ElLQcstfG9R6ZnUMWHG85mEavuv65UyiLonW+9cqBEiNjCjdON5pgYO9h52I/EA=
+
+Hint: y * ("BAN HAMMER" ADMINISTRATOR UID) * (HANZO UID) = key
+<br>
+Ban Hammer UID: 33279
+<br>
+HANZO UID: 4066
+<br>
+After finding the UID's, the rest of the work was done using a program I created: https://github.com/xadamxk/Puzzle-Solutions/tree/master/Scavenger%20Hunt%20%231/Xerotics%20Algebra%20Puzzle
+<br>
+Key: 64002771822
+</li>
   <hr>
-  <li><b>7: </b></li>
+  <li>
+  <b>Username of the Member at Time X</b>
+        
+      Un34CB73Q5kSwc8oxdSU2vFR6Xobol5yJ8IO+3uYjv81DMqDvalSDEcFOJPudTlxMR6Ru4l4NNOlhkObBF3vhqQzwyG2n7PyPsAz6vRuSWg1ID/9TSLW8Baqgr6vgT6rldbbpKRRoEjs+qxZw9jwkhcwqo+FSX1Msz8tYfnRXKxUO6oK2hDq5V+btC9Uoh2AKCJ0ayjas5DsTWzqSZhMu8EeEYGiRFpOPJ1BRT30nYoCYmh21TE+waDhtQl5bOmrpxH6VibRVN8+2QNb9dENegOxlPpQfEdnyUgsDpUeXt4QyTwkU5qQFqDwmZl6kl6dPSlkJ53D46/EZ+7IYLr/QOcRqvoZr2dgp/anqTjMmpdmGJE1l/zw+ApaT3IPhljaxsn2uHNcfqbFzN2f5jC9J8NSBKgCAOpuUSBVMa6wPlI8dedm1EJvl6Gk43m8gYyNn3oWzjmSyPkpu5cL/ZwQBZaPE6cyBbYEaO1FkAbCGaZjJM+yUxnqwGOtNxxk5lkz1u8cxzAOciYMlYMTiKu2kLYpdqdkhJ6g+5hzSfCQ5rmKrYaBmGzr6MEdnzyN6BBbwd5A+Lh0pHAvGdYcQ6QXh2vDnR+U8UdiyN+uK2v71LZMUWjvUsJBQy1KOZi6G74sQI6tAf1K2QpOQ7raqP+uNg5uDQsenFAR6x1OrMnt71++QIVuZ01Wewu2x107L2ORpp1AWxIm8XTJ/MUmIHXFNaHuYepAvEkM26b5EJY/0MI=
+
+Hint: Hint: What is the username of the member that registered at about this time? (2855.5780923 * x)
+<br>
+x = TID of first thread about an official HF holiday in June
+<br>
+First HF Holiday: Good Will Monday
+<br>
+x = 466320
+<br>
+(2855.5780923 * 466320) = 1331613176
+<br>
+1331613176 converted to a timestamp is: GMT: Tuesday, March 13, 2012 4:32:56 AM 03/13/2012 @ 4:32am (UTC)
+<br>
+Navigating to the snapshot of this time stamp on the WayBack Machine (https://web.archive.org/web/20120313043256/http://www.hackforums.net/) gives us a username of: Cole001.
+<br>
+Key: Cole001.
+</li>
   <hr>
   <li><b>8: </b></li>
   <hr>
