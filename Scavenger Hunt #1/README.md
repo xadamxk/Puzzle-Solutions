@@ -309,7 +309,7 @@ Key: Ackermann
   <b>Post That Started It All</b>
                           
       HpQlNqU3zEWYx5CAi3c5f/uELOpXliPHmye0bz9svbzWnx2rb8AJzzlenlfvW4vRjIN2qTvEGFOl9Ji0e11qeA==
-</li>
+
 Hint: When was the post that started it all?
 <br>
 <br>
@@ -319,13 +319,23 @@ No format of the Scavenger Hunt posting date worked, so I searched for a thread 
 <br>
 I found several threads, but none of the dates worked, so I visited our good friend, the Wayback Machine, to find the first ever HF thread (https://web.archive.org/web/20130625045049/hackforums.net/showthread.php?tid=1).
 <br>
+<br>
 OP Date archieved: 05-01-2007, 11:09 PM
 <br>
 I tried using various formats of this date but realized none of them worked. After taking a closer look at the Wayback Machine, I realized that maybe the cached timestamp was skewed.
 <br>
 The timestamp that the snapshot was taken was at 4:50 AM on 06/25 (20130625045049), but Hack Forums said the current time was 08:50 PM on 06/24, so the snapshot was ahead 8 hours.
 <br>
-
+<br>
+Using my Bruter Script, I was able to confirm the time offset was 8 hours (https://www.epochconverter.com/) by testing every hour iteration by 3600 from a base time of 1178017740.
+<br>
+<br>
+Key: 1178089740
+</li>
   <hr>
-  <li><b></b></li>
+  <li>
+  <b>Final Hint</b>
+                            
+      Does it feel like shit being a skid?
+</li>
 </ol>
