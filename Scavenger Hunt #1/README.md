@@ -96,11 +96,11 @@ Key: 64002771822
         
       Un34CB73Q5kSwc8oxdSU2vFR6Xobol5yJ8IO+3uYjv81DMqDvalSDEcFOJPudTlxMR6Ru4l4NNOlhkObBF3vhqQzwyG2n7PyPsAz6vRuSWg1ID/9TSLW8Baqgr6vgT6rldbbpKRRoEjs+qxZw9jwkhcwqo+FSX1Msz8tYfnRXKxUO6oK2hDq5V+btC9Uoh2AKCJ0ayjas5DsTWzqSZhMu8EeEYGiRFpOPJ1BRT30nYoCYmh21TE+waDhtQl5bOmrpxH6VibRVN8+2QNb9dENegOxlPpQfEdnyUgsDpUeXt4QyTwkU5qQFqDwmZl6kl6dPSlkJ53D46/EZ+7IYLr/QOcRqvoZr2dgp/anqTjMmpdmGJE1l/zw+ApaT3IPhljaxsn2uHNcfqbFzN2f5jC9J8NSBKgCAOpuUSBVMa6wPlI8dedm1EJvl6Gk43m8gYyNn3oWzjmSyPkpu5cL/ZwQBZaPE6cyBbYEaO1FkAbCGaZjJM+yUxnqwGOtNxxk5lkz1u8cxzAOciYMlYMTiKu2kLYpdqdkhJ6g+5hzSfCQ5rmKrYaBmGzr6MEdnzyN6BBbwd5A+Lh0pHAvGdYcQ6QXh2vDnR+U8UdiyN+uK2v71LZMUWjvUsJBQy1KOZi6G74sQI6tAf1K2QpOQ7raqP+uNg5uDQsenFAR6x1OrMnt71++QIVuZ01Wewu2x107L2ORpp1AWxIm8XTJ/MUmIHXFNaHuYepAvEkM26b5EJY/0MI=
 
-Hint: Hint: What is the username of the member that registered at about this time? (2855.5780923 * x)
+Hint: What is the username of the member that registered at about this time? (2855.5780923 * x)
 <br>
 x = TID of first thread about an official HF holiday in June
 <br>
-First HF Holiday: Good Will Monday
+First HF Holiday: Good Will Monday (https://hackforums.net/showthread.php?tid=466320)
 <br>
 x = 466320
 <br>
@@ -113,7 +113,37 @@ Navigating to the snapshot of this time stamp on the WayBack Machine (https://we
 Key: Cole001.
 </li>
   <hr>
-  <li><b>8: </b></li>
+  <li>
+  <b>Coordinate Point</b>
+          
+      Klf5wJCvA9FnZvkqGnZRK3pKnCApZl8O4IaX7/KLvlY+CyfmxwwSdNxsgfxKP4nZhrNw1+R/dV3CXq7rqy4BpV/Yxp5sErTrHH8SZE3WRCjywkGEsxWpk1iOUmfvx+KPN64etiH4UHyn2mhB+EfWVwx5XuVuZqk5jpijkGmq6y0tNrkHCWjIVC+jjshfFROfbvD/emFwHbyHz74RC4YAPA==
+
+Hint: 
+x = 
+<br>
+A way of expressing happiness is to: ___
+<br>
+Find how many times this user has changed his username and add: 0.5980738.
+<br>
+<br>
+y = 
+<br>
+This 2010 member's name is also used to refer to a compilation of highlights.
+<br>
+Find how many threads this user has created, negate it, and subtract 0.3301378.
+<br>
+<br>
+x,y
+<br>
+<br>
+X: Grin (47.5980738)
+<br>
+Y: Montage (-110.3301378)
+<br>
+These are coordinates for a location: Shonkin Rd
+<br>
+Key: Shonkin Rd
+</li>
   <hr>
   <li><b>9: </b></li>
   <hr>
